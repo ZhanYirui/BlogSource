@@ -1,17 +1,17 @@
 ---
-title: "编译原理上机(三) - 绘图器"
+title: "编译原理上机(3) - 绘图器"
 date: 2022-11-21
 draft: false
-description: "编译原理上机(三) - 绘图器"
+description: "编译原理上机(3) - 绘图器"
 tags: ["编译原理"]
 ---
-**西电编译原理大作业 - 函数绘图语言编译器C++实现 - Part 3 - 绘图器**
+<u>**西电编译原理大作业 - 函数绘图语言编译器 - C++实现  - 绘图器**</u>
 
-author:En1y
+报告及代码链接：
 
-time:2022-11-20
+{{< github repo="ZhanYirui/FGLCompiler" >}}
 
-school:Xidian university
+
 
 **第三部分:绘图器 (完整代码在最后)**
 

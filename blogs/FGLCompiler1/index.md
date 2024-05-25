@@ -1,17 +1,15 @@
 ---
-title: "编译原理上机（一) - 词法分析器"
+title: "编译原理上机(1) - 词法分析器"
 date: 2022-11-19
 draft: false
-description: "编译原理上机 - 词法分析器"
+description: "编译原理上机(1) - 词法分析器"
 tags: ["编译原理"]
 ---
-**西电编译原理大作业 - 函数绘图语言编译器C++实现 - Part 1 - 词法分析器**
+<u>**西电编译原理大作业 - 函数绘图语言编译器 - C++实现 - 词法分析器**</u>
 
-author : Enly
+报告及代码链接：
 
-time : 2022-11-19
-
-school : Xidian university
+{{< github repo="ZhanYirui/FGLCompiler" >}}
 
 
 

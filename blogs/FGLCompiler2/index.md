@@ -1,17 +1,17 @@
 ---
-title: "编译原理上机(二) — 语法分析器"
+title: "编译原理上机(2) — 语法分析器"
 date: 2022-11-20
 draft: false
-description: "编译原理上机(二) - 语法分析器"
+description: "编译原理上机(2) - 语法分析器"
 tags: ["编译原理"]
 ---
-**西电编译原理大作业 - 函数绘图语言编译器C++实现 - Part 2 - 语法分析器**
+<u>**西电编译原理大作业 - 函数绘图语言编译器 - C++实现 - 语法分析器**</u>
 
-author: En1y
+报告及代码链接：
 
-time:2022-11-19
+{{< github repo="ZhanYirui/FGLCompiler" >}}
 
-school:Xidian university
+
 
 **第二部分:语法分析器(完整代码在结尾)**
 
