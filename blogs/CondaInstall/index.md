@@ -9,6 +9,12 @@ tags: ["conda"]
 
 
 
+
+
+
+
+
+
 ### 1 安装
 
 1) 查看你要安装的版本
@@ -147,19 +153,19 @@ vim ~/.bash_profile
 {{< /alert >}}
 
 ```bash
-source ~/.bashrc
+source ~/.bash_profile
 ```
 
 同理，对zsh也执行上述操作。
 
 ```bash
-vim ~/.bashrc
+vim ~/.zshrc
 ```
 
 ![截屏2024-05-24 20.00.56](https://p.ipic.vip/jsjyo2.png)
 
 ```bash
-source ~/.bashrc
+source ~/.zshrc
 ```
 
 4. 删除配置文件
